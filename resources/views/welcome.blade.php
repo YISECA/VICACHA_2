@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata RÍO VICACHA O SAN FRANCISCO 22 de Enero de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata RÍO VICACHA O SAN FRANCISCO 12 de MARZO de 2017</div>
 
                     </div>
 <br>
@@ -126,7 +126,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 22 de Enero de 2017</p>
+                                            <p>Domingo 12 de Marzo de 2017</p>
 
                                         </td>
 
@@ -192,7 +192,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.916 m.s.n.m</td>
+                                            <p>2.800 m.s.n.m</td>
 
                                     </tr>
 
